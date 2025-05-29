@@ -6,12 +6,16 @@ Para aislar las dependencias del proyecto, crea un entorno virtual ejecutando el
 
 ```bash
 python -m venv env
+```
 
 ## 2. Activamos el entorno
+
 ```bash
 .\env\Scripts\activate
+```
 
 o en linux
 
 ```bash
 source env/bin/activate
+```
